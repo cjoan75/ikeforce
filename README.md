@@ -17,7 +17,7 @@ Guides can be found here:
 INSTALL
 =======
 Requires the `pyip`, `pycrypto` and `pyopenssl` modules installed, but other than that it's only standard libs.
-`pyip` is the most likely lib that you won't have, install it with 'pip install pyip'
+`pyip` is the most likely lib that you won't have, install it with 'pip install pyip'.  If pip isn't installed sudo apt-get install pip
 
 USAGE
 =====
